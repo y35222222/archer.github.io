@@ -8,7 +8,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://xmsnsoft.kmdns.net:8000/snsoft20170816old3/appdowmload/H57C1FB53_1205094436.ipa</string>
+                    <string>http://192.168.1.180:8000/snsoft20170816old3/appdowmload/H57C1FB53_1205094436.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -22,7 +22,7 @@
                 <key>releaseNotes</key>
                 <string>i企通</string>
                 <key>title</key>
-                <string>i企通安装</string>
+                <string>i企通</string>
             </dict>
         </dict>
     </array></dict></plist>
